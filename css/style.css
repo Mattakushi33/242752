@@ -1,0 +1,251 @@
+html {
+    scroll-behavior: smooth;
+    font-family: "Montserrat";
+}
+@font-face
+  {
+  font-family: Montserrat;
+  src: url("fonts/Montserrat/Montserrat-Regular.ttf");
+  }
+
+.logo img {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 140px;
+    top: 20px;
+}
+
+.name1 {
+    color: black;
+    font-weight: bolder;
+    font-size: 25px;
+    position: absolute;
+    left: 205px;
+    top: 0px;
+}
+
+.name2 {
+    color: red;
+    font-weight: bolder;
+    font-size: 25px;
+    position: absolute;
+    left: 205px;
+    top: 25px;
+}
+
+.number {
+    color: red;
+    font-weight: bolder;
+    position: absolute;
+    right: 325px;
+    top: 0px;
+}
+
+.number2 {
+    color: red;
+    font-weight: bolder;
+    position: absolute;
+    right: 180px;
+    top: -9px;
+}
+
+.call {
+    color: darkblue;
+    font-weight: bolder;
+    position: absolute;
+    right: 200px;
+    font-size: 25px;
+
+}
+
+.gradient {
+    background: red;
+    height: 10px;
+    margin-top: 50px;
+    background: linear-gradient(to left, red, rgb(255, 205, 205));
+}
+ul.menu {
+    margin-left: 330px;
+    padding: 4px;
+
+}
+
+ul.menu li {
+    display: inline;
+    margin-right: 200px;
+    border: none;
+    padding: 3px;
+    font-weight: bolder;
+}
+
+.shadow {
+    background: linear-gradient(to bottom, gray, white);
+    height: 5px;
+}
+
+.work {
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.work2 {
+    font-size: 35px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.work3 {
+    font-size: 45px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.work4 {
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.img1 img {
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    left: 300px;
+}
+
+.img1text {
+    position: absolute;
+    left: 210px;
+    top: 550px;
+    font-size: 20px;
+}
+
+.img2 img {
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    left: 870px;
+}
+
+.img2text {
+    position: absolute;
+    left: 735px;
+    top: 550px;
+    font-size: 20px;
+}
+
+.img3 img {
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    right: 300px;
+}
+
+.img3text {
+    position: absolute;
+    right: 145px;
+    top: 550px;
+    font-size: 20px;
+}
+
+.img4 img {
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    left: 300px;
+    top: 650px;
+}
+
+.img4text {
+    position: absolute;
+    left: 180px;
+    top: 700px;
+    font-size: 20px;
+}
+
+.img5 img {
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    left: 870px;
+    top: 650px;
+}
+
+.img5text {
+    position: absolute;
+    left: 705px;
+    top: 700px;
+    font-size: 20px;
+}
+
+.img6 img {
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    right: 300px;
+    top: 650px;
+}
+
+.img6text {
+    position: absolute;
+    right: 150px;
+    top: 700px;
+    font-size: 20px;
+}
+
+.img7 img {
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    left: 875px;
+    top: 800px;
+}
+
+.img7text {
+    position: absolute;
+    left: 750px;
+    top: 850px;
+    font-size: 20px;
+}
+
+.yslygi h1 {
+    position: absolute;
+    left: 80px;
+    font-size: 40px;
+    top: 900px;
+}
+
+.yslygi ul {
+    position: absolute;
+    top: 960px;
+    left: 100px;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+.links a {
+    text-decoration: none;
+    color: blue;
+}
+.links {
+    position: absolute;
+    top: 300px;
+}
+.main {
+    font-size: xx-large;
+    text-align: center;
+}
+.footer {
+    position: absolute;
+    left: 750px;
+    top: 1600px;
+    text-align: center;
+}
+.email {    
+    color: blue;
+}
