@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<configuration> 
+ <system.webServer> 
+<rewrite> 
+<rules>
+<rule name="Redirect to https"
+stopProcessing="true"> 
+<match url="(.*)" />
+<conditions> 
+<add input="{HTTPS}"
+pattern="off" ignoreCase="true" /> 
+<add input="{HTTP_HOST}" 
+pattern="^domain\.ru" /> 
+</conditions> 
+<action type="Redirect" 
+url="https://{HTTP_HOST}{REQUEST_URI}" 
+redirectType="Permanent" />
+</rule> 
+</rules> 
+</rewrite>
+ </system.webServer> 
+<IfModule mod_rewrite.c>
+ErrorDocument 404
+https://github.com/Yato20XX/Yato20XX.github.io/blob/main/404.html
+</IfModule>
+</configuration> 
