@@ -21,6 +21,6 @@ redirectType="Permanent" />
  </system.webServer> 
 <IfModule mod_rewrite.c>
 ErrorDocument 404
-https://github.com/Yato20XX/Yato20XX.github.io/blob/main/404.html
+https://github.com/Mattakushi33/Mattakushi33.github.io/blob/main/404.html
 </IfModule>
 </configuration> 
