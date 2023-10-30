@@ -1,37 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>http://daviddym.beget.tech/</loc>
-  <lastmod>2023-10-19T09:36:06+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://github.com/Mattakushi33/Mattakushi33.github.io/blob/main/index.html</loc>
+<priority>0.5</priority>
+<changefreq>daily</changefreq>
+<lastmod>2023-10-30</lastmod>
 </url>
 <url>
-  <loc>https://github.com/Mattakushi33/Mattakushi33.github.io/blob/main/index.html</loc>
-  <lastmod>2023-10-19T09:36:06+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://github.com/Mattakushi33/Mattakushi33.github.io/blob/main/contacts.html</loc>
+<priority>0.5</priority>
+<changefreq>daily</changefreq>
+<lastmod>2023-10-30</lastmod>
 </url>
 <url>
-  <loc>https://github.com/Mattakushi33/Mattakushi33.github.io/blob/main/contacts.html</loc>
-  <lastmod>2023-10-19T08:50:33+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://github.com/Mattakushi33/Mattakushi33.github.io/blob/main/uslugi.html</loc>
+<priority>0.5</priority>
+<changefreq>daily</changefreq>
+<lastmod>2023-10-30</lastmod>
 </url>
 <url>
-  <loc>https://github.com/Mattakushi33/Mattakushi33.github.io/blob/main/uslugi.html</loc>
-  <lastmod>2023-10-19T08:50:34+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://github.com/Mattakushi33/Mattakushi33.github.io/blob/main/portfolio.html</loc>
+<priority>0.5</priority>
+<changefreq>daily</changefreq>
+<lastmod>2023-10-30</lastmod>
 </url>
-<url>
-  <loc>https://github.com/Mattakushi33/Mattakushi33.github.io/blob/main/portfolio.html</loc>
-  <lastmod>2023-10-19T08:50:34+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-
 </urlset>
