@@ -1,4 +1,0 @@
-User-agent: Yandex
-Disallow: 
-Host: github.com/Mattakushi33/Mattakushi33.github.io
-Sitemap: http://github.com/Mattakushi33/Mattakushi33.github.io/sitemap.xml
